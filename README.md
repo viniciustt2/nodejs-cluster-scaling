@@ -30,7 +30,7 @@ This project implements a Node.js cluster to run multiple worker processes, sign
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/cluster-node.git
+git clone https://github.com/viniciustt2/nodejs-cluster-scaling.git
 
 # Navigate to the project
 cd cluster-node
