@@ -33,7 +33,7 @@ This project implements a Node.js cluster to run multiple worker processes, sign
 git clone https://github.com/viniciustt2/nodejs-cluster-scaling.git
 
 # Navigate to the project
-cd cluster-node
+cd nodejs-cluster-scaling
 
 # Install dependencies
 npm install
